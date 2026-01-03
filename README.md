@@ -32,7 +32,17 @@
 
 ---
 
-## 🚀 Featured Work (Pin these on GitHub 👇)
+## ✨ Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/smrutid12?style=for-the-badge&logo=github&logoColor=white&color=111827" />
+  <img src="https://img.shields.io/github/stars/smrutid12?style=for-the-badge&logo=github&logoColor=white&color=111827" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-111827?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Featured Work
 
 <p align="center">
   <a href="https://github.com/smrutid12/Smart-doc-string-generator">
@@ -54,21 +64,16 @@
 
 ---
 
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smrutid12&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://smrutidash.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/smrutid12" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUREMAIL">
+  <a href="mailto:smrutid12@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
