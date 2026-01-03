@@ -16,47 +16,40 @@
 
 ---
 
-## ⚡ What I Do
-
-- Backend & distributed systems  
-- Scalable APIs & async processing  
-- Clean architecture & performance  
-
----
-
-## 🚀 Featured Work
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smrutid12&repo=Smart-doc-string-generator&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smrutid12&repo=Planora-landing&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smrutid12&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smrutid12&repo=Reformit&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smrutid12&repo=Quack-links&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smrutid12&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smrutid12&theme=tokyonight&utcOffset=4" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smrutid12&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smrutid12&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 📊 GitHub Snapshot
+## 🚀 Featured Work (Pin these on GitHub 👇)
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=smrutid12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutid12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="160"
-  />
+  <a href="https://github.com/smrutid12/Smart-doc-string-generator">
+    <img src="https://img.shields.io/badge/Smart%20Docstring%20Generator-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/smrutid12/Planora-landing">
+    <img src="https://img.shields.io/badge/Planora%20Landing-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
-
-## 🧠 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smrutid12&theme=tokyo-night&hide_border=true"/>
+  <a href="https://github.com/smrutid12/Reformit">
+    <img src="https://img.shields.io/badge/Reformit-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/smrutid12/Quack-links">
+    <img src="https://img.shields.io/badge/Quack%20Links-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
