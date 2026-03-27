@@ -1,85 +1,55 @@
-<h1 align="center">Smruti Dash</h1>
+<div align="center">
 
-<p align="center">
-  Backend • Systems • Full-Stack Engineer
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Smruti+Dash+%F0%9F%91%8B;Backend+%E2%80%A2+Systems+%E2%80%A2+Full-Stack;Building+things+that+scale.)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smrutid12&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+[![Portfolio](https://img.shields.io/badge/smrutidash.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://smrutidash.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smrutid12)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smrutid12@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,js,ts,react,nodejs,postgres,docker,kubernetes,aws,redis&theme=dark" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smrutid12&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smrutid12&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smrutid12&theme=tokyonight&utcOffset=4" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smrutid12&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smrutid12&theme=tokyonight" height="160" />
-</p>
+```yaml
+whoami:
+  focus:    Backend systems, APIs, distributed infra
+  stack:    Python · FastAPI · Flask · PostgreSQL · Redis · Docker · AWS
+  currently: Building things that don't fall over
+  belief:   "Strong systems are built on solid fundamentals."
+```
 
 ---
 
-## ✨ Highlights
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/smrutid12?style=for-the-badge&logo=github&logoColor=white&color=111827" />
-  <img src="https://img.shields.io/github/stars/smrutid12?style=for-the-badge&logo=github&logoColor=white&color=111827" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-111827?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 Featured Work
-
-<p align="center">
-  <a href="https://github.com/smrutid12/Smart-doc-string-generator">
-    <img src="https://img.shields.io/badge/Smart%20Docstring%20Generator-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/smrutid12/Planora-landing">
-    <img src="https://img.shields.io/badge/Planora%20Landing-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/smrutid12/Reformit">
-    <img src="https://img.shields.io/badge/Reformit-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/smrutid12/Quack-links">
-    <img src="https://img.shields.io/badge/Quack%20Links-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+| Project | What it does |
+|--------|--------------|
+| [**Smart Docstring Generator**](https://github.com/smrutid12/Smart-doc-string-generator) | Reads your code, writes your docs. AI that turns messy functions into clean, declarative Python — no excuses for undocumented code. |
+| [**Reformit**](https://github.com/smrutid12/Reformit) | File conversion in 3 clicks. A Chrome extension that cuts out every annoying step between "I have this file" and "I need it as that file." |
+| [**Quack Links**](https://github.com/smrutid12/Quack-links) | Long URLs don't deserve to exist. A no-nonsense link shortener that quacks back something clean. 🦆 |
+| [**Planora**](https://github.com/smrutid12/Planora-landing) | A task planner that actually gets you — syncs your schedule with your mood so your day doesn't fight your brain. |
 
 ---
 
-## 📫 Connect
+## 📊 Stats
 
-<p align="center">
-  <a href="https://smrutidash.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/smrutid12" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:smrutid12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=smrutid12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutid12&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=smrutid12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<p align="center">
-  <em>Strong systems are built on solid fundamentals.</em>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smrutid12/smrutid12/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smrutid12/smrutid12/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/smrutid12/smrutid12/output/github-snake.svg"/>
+</picture>
+
+</div>
