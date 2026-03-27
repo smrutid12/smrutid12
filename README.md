@@ -34,12 +34,12 @@ whoami:
 ## 📊 Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=smrutid12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutid12&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
+ 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smrutid12&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smrutid12&theme=tokyonight" height="165"/>
+ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=smrutid12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+ 
 </div>
 
 ---
